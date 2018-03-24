@@ -1,1 +1,0 @@
-# ejemplito-php-hola-mundo
